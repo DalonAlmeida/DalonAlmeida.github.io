@@ -1,6 +1,4 @@
 # http://DalonAlmeida.github.io
-meu primeiro site
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
